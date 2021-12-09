@@ -1,0 +1,15 @@
+{
+  "name": "Start",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Luis Marin",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": "https://github.com/tr-luis"
+}
